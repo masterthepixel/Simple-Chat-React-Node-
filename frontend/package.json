@@ -2,7 +2,6 @@
   "name": "react-example",
   "version": "0.0.1",
   "description": "React Example Frontend",
-  "author": "Marko Klemetti <marko.klemetti@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -14,8 +13,8 @@
     "lint": "./node_modules/.bin/eslint --ext .js --ext .jsx src/"
   },
   "dependencies": {
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react": "^16.14.2",
+    "react-dom": "^16.14.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.49",
